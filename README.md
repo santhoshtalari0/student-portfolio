@@ -11,4 +11,4 @@ My First Git Project
 -JavaScript 
 
 
-## About this project 
+## About this class
