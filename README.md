@@ -11,4 +11,4 @@ My First Git Project
 -JavaScript 
 
 
-## About this class
+## About this class 3 day 3 
